@@ -1,0 +1,5 @@
+torch
+torch-vision
+opencv-python
+numpy
+opencv-contrib-python
